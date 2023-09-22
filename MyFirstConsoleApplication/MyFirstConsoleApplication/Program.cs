@@ -1,8 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 
-    //declare personal data
-    string name = "Brennan Tanner";
+//declare personal data
+string name = "Brennan Tanner";
 string location = "Idaho";
 
 //output introduction
